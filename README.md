@@ -19,7 +19,7 @@ Download button allows saving the result as a PDF report.
 # 🚀 Tech Stack
 Frontend: HTML, CSS (Bootstrap), JavaScript (jsPDF)
 Backend: Python, Flask
-ML Model: Scikit-learn (SVM pipeline)
+ML Model: Scikit-learn (logistic regression pipeline)
 Data Processing: Pandas, NumPy
 PDF Generator: jsPDF (client-side)
 # ⚙️ Setup Instructions
