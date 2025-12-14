@@ -7,7 +7,7 @@ Predictive Pulse is a machine learning project that helps estimate a user's bloo
 # Key Features:
 
 Interactive web UI using Flask + HTML/CSS (Bootstrap)
-Trained SVM-based ML model for BP classification
+Trained on logistic regression ML model for BP classification
 Client-side PDF generation using jsPDF
 Clean and responsive design
 Lightweight and easy to deploy
