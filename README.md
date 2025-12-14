@@ -1,4 +1,4 @@
-🩺 Predictive Pulse: Harnessing Machine Learning for Blood Pressure Analysis
+# 🩺 Predictive Pulse: Harnessing Machine Learning for Blood Pressure Analysis <br/>
 A Flask-based web application that predicts a person's blood pressure stage (e.g., Normal, Hypertension Stage 1/2, Crisis) based on basic health inputs, using a trained ML model. The app also allows users to download the results as a PDF report.
 
 🔍 Project Overview
