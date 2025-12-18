@@ -22,16 +22,4 @@ Backend: Python, Flask
 ML Model: Scikit-learn (logistic regression pipeline)
 Data Processing: Pandas, NumPy
 PDF Generator: jsPDF (client-side)
-# ⚙️ Setup Instructions
-Clone the repository
-
-git clone https://github.com/your-username/predictive-pulse.git
-cd predictive-pulse
-
-(Optional but Recommended) Create a virtual environment python -m venv venv source venv/bin/activate # On Windows: venv\Scripts\activate
-
-Install dependencies pip install -r requirements.txt
-
-Run the app python app.py
-
-Open the app in your browser Navigate to: http://127.0.0.1:5000
+er Navigate to: http://127.0.0.1:5000
